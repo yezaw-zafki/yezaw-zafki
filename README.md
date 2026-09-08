@@ -46,12 +46,6 @@ MBA graduate with an interest in data analysis and business intelligence. I use 
 	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-## ML & AI
-
-<p>
-	<img src="https://img.shields.io/badge/Analytics-4C8BF5?style=flat&logo=googleanalytics&logoColor=white" alt="Analytics">
-</p>
-
 ## Data Science & Visualization
 
 <p>
