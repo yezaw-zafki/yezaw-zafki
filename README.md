@@ -25,16 +25,13 @@ MBA graduate with an interest in data analysis and business intelligence. I use 
 - MBA graduate interested in data analysis and business intelligence
 - Building skills across analytics, visualization, spreadsheets, databases, and cloud platforms
 
----
-
-# Core Specializations
-
+**Core Specializations**
 <p>
 	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
 	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel">
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">
+	<img src="https://img.shields.io/badge/Statistics-6A5ACD?style=flat" alt="Statistics">
 </p>
 
 ---
@@ -51,15 +48,15 @@ MBA graduate with an interest in data analysis and business intelligence. I use 
 ## Data Analysis & Visualization
 
 <p>
+	<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+	<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
 	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
 	<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib">
 	<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white" alt="Seaborn">
 	<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
 	<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
-	<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-	<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
 </p>
 
 ## Databases
